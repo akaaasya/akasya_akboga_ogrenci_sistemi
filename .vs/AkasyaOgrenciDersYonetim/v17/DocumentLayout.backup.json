@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|c:\\users\\emre\\desktop\\c# windows form projeleri\\akasyaogrencidersyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|c:\\users\\emre\\desktop\\c# windows form projeleri\\akasyaogrencidersyonetim\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|solutionrelative:ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|c:\\users\\emre\\desktop\\c# windows form projeleri\\akasyaogrencidersyonetim\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|solutionrelative:ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|c:\\users\\emre\\desktop\\c# windows form projeleri\\akasyaogrencidersyonetim\\ogretimg\u00F6revlisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|solutionrelative:ogretimg\u00F6revlisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|c:\\users\\emre\\desktop\\c# windows form projeleri\\akasyaogrencidersyonetim\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|solutionrelative:iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|c:\\users\\emre\\desktop\\c# windows form projeleri\\akasyaogrencidersyonetim\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18F052-3F45-4DF5-BEAB-28B7DB425E67}|AkasyaOgrenciDersYonetim.csproj|solutionrelative:kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Ders.cs",
+              "RelativeDocumentMoniker": "Ders.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Ders.cs",
+              "RelativeToolTip": "Ders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:41:34.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgretimG\u00F6revlisi.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\OgretimG\u00F6revlisi.cs",
+              "RelativeDocumentMoniker": "OgretimG\u00F6revlisi.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\OgretimG\u00F6revlisi.cs",
+              "RelativeToolTip": "OgretimG\u00F6revlisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:41:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Ogrenci.cs",
+              "RelativeToolTip": "Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:22.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Kisi.cs",
+              "RelativeDocumentMoniker": "Kisi.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Kisi.cs",
+              "RelativeToolTip": "Kisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:39:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\IPerson.cs",
+              "RelativeDocumentMoniker": "IPerson.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\IPerson.cs",
+              "RelativeToolTip": "IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:39:27.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Windows Form Projeleri\\AkasyaOgrenciDersYonetim\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:36:56.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿{
+    "DersAdi": "C# Programlama",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+        "Isim": "Dr. Ali Yılmaz",
+        "Yas": 45,
+        "Bolum": "Bilgisayar Mühendisliği"
+    },
+    "KayitliOgrenciler": [
+        {
+            "Isim": "Mehmet Can",
+            "Yas": 20,
+            "OgrenciNo": 12345
+        },
+        {
+            "Isim": "Ayşe Öztürk",
+            "Yas": 22,
+            "OgrenciNo": 67890
+        }
+    ]
+}
